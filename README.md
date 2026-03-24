@@ -32,4 +32,4 @@ I work on autonomous driving, autonomous racing, LiDAR-based perception, learnin
 * Learning-enabled control for autonomous racing
 * Global-local behavior arbitration under LiDAR errors
 * Reinforcement learning for adaptive Pure Pursuit
-* Real-world deployment on F1TENTH platforms
+* Real-world deployment on Roboracer platforms
