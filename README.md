@@ -1,16 +1,51 @@
-## Hi there 👋
+# Mohamed Elgouhary GitHub Profile README
 
-<!--
-**Mohamed-Elgouhary/Mohamed-Elgouhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Header
 
-Here are some ideas to get you started:
+# Hi, I'm Mohamed Elgouhary 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ph.D. Student at West Virginia University | Robotics | Autonomous Driving | Reinforcement Learning
+
+I work on autonomous driving, autonomous racing, LiDAR-based perception, learning-enabled control, and sim-to-real robotic systems.
+
+## Links
+
+* 🌐 Website: [https://mohamed-elgouhary.github.io/](https://mohamed-elgouhary.github.io/)
+* 🎓 Google Scholar: [https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en](https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en)
+* 💼 LinkedIn: [https://www.linkedin.com/in/elgouhary-ai/](https://www.linkedin.com/in/elgouhary-ai/)
+* 📺 YouTube: [https://www.youtube.com/@Elgouhary-AI](https://www.youtube.com/@Elgouhary-AI)
+* 📧 Email: [mohamed.elgohary.ai@gmail.com](mailto:mohamed.elgohary.ai@gmail.com)
+
+## Research Interests
+
+* Autonomous Driving
+* Autonomous Racing
+* Robotics
+* Reinforcement Learning
+* LiDAR Perception
+* ROS2
+* Sim-to-Real Transfer
+* Safe Autonomous Systems
+
+## Current Focus
+
+* Learning-enabled control for autonomous racing
+* Global-local behavior arbitration under LiDAR errors
+* Reinforcement learning for adaptive Pure Pursuit
+* Real-world deployment on F1TENTH platforms
+
+## Selected Repositories
+
+* **WVU-F1tenth-Mountaineer** — F1TENTH racing and autonomy work
+* **Pure_Pursuit** — path-tracking and racing control experiments
+* **Way-Points-Generator** — waypoint generation utilities
+
+## Optional Stats Section
+
+You can later add GitHub stats cards here if you want.
+
+## Simple Version for People Who Prefer Short Profiles
+
+Hi, I'm Mohamed Elgouhary, a Ph.D. student at West Virginia University working in robotics, autonomous driving, reinforcement learning, and LiDAR-based autonomous systems.
+
+Website: [https://mohamed-elgouhary.github.io/](https://mohamed-elgouhary.github.io/) | Scholar: [https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en](https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en) | LinkedIn: [https://www.linkedin.com/in/elgouhary-ai/](https://www.linkedin.com/in/elgouhary-ai/)
