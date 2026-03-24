@@ -33,19 +33,3 @@ I work on autonomous driving, autonomous racing, LiDAR-based perception, learnin
 * Global-local behavior arbitration under LiDAR errors
 * Reinforcement learning for adaptive Pure Pursuit
 * Real-world deployment on F1TENTH platforms
-
-## Selected Repositories
-
-* **WVU-F1tenth-Mountaineer** — F1TENTH racing and autonomy work
-* **Pure_Pursuit** — path-tracking and racing control experiments
-* **Way-Points-Generator** — waypoint generation utilities
-
-## Optional Stats Section
-
-You can later add GitHub stats cards here if you want.
-
-## Simple Version for People Who Prefer Short Profiles
-
-Hi, I'm Mohamed Elgouhary, a Ph.D. student at West Virginia University working in robotics, autonomous driving, reinforcement learning, and LiDAR-based autonomous systems.
-
-Website: [https://mohamed-elgouhary.github.io/](https://mohamed-elgouhary.github.io/) | Scholar: [https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en](https://scholar.google.com/citations?user=OQA2etgAAAAJ&hl=en) | LinkedIn: [https://www.linkedin.com/in/elgouhary-ai/](https://www.linkedin.com/in/elgouhary-ai/)
